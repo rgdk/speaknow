@@ -24,3 +24,9 @@ Prepare a short presentation summarizing your approach, challenges faced, and ke
 - A Presentation file such as PPT, PDF or similar (Design not important)
 
 
+### Source Code ###
+
+The source code includes the jupyter notebooks for generating transcriptions, executing data engineering and generating the models.
+
+
+
