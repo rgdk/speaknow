@@ -1,0 +1,3 @@
+Download the GloVe.6B embeddings from here, and store them in the pretrained/Glove6b directory
+
+https://nlp.stanford.edu/data/glove.6B.zip
