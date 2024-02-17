@@ -28,5 +28,20 @@ Prepare a short presentation summarizing your approach, challenges faced, and ke
 
 The source code includes the jupyter notebooks for generating transcriptions, executing data engineering and generating the models.
 
+### Microservice ###
+
+To run the speech model microservice:
+- navigate to the Code directory
+- execute the speech_model_service.py python script as:
+  python .\speech_model_service.py
+- once it is up and running, then open the speech_model_service_test.py script for editing. It is also found in the Code directory
+- Alter the feature values relating to the audio file to be assessed (note these need to be extracted separately due to the need to use ChatGPT for the transcription)
+- Then save and execute the file from the command line as:
+   python .\speech_model_service_test.py
+
+![image](https://github.com/rgdk/speaknow/assets/7219017/59dba98e-bbf1-46b2-a899-158e5cc3021f)
+
+![image](https://github.com/rgdk/speaknow/assets/7219017/1a937abf-6be1-408f-9a04-4b9c111f4368)
 
 
+  
