@@ -1,0 +1,5 @@
+The version 0.9.3 Deepspeech model and scorer can be downloaded from here and put in the pretrained/deepspeech directory:
+
+deepspeech-0.9.3-models.pbmm from https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0.9.3-models.pbmm
+
+deepspeech-0.9.3-models.scorer from https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0.9.3-models.scorer

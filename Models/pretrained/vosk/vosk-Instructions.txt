@@ -1,0 +1,7 @@
+Download the vosk models from here, and store them in the pretrained/vosk directory
+
+https://alphacephei.com/vosk/models
+
+The two models demonstrated here were: 
+vosk-model-en-us-0.22-lgraph
+vosk-model-en-us-0.42-gigaspeech
