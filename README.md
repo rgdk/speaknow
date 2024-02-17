@@ -28,6 +28,21 @@ Prepare a short presentation summarizing your approach, challenges faced, and ke
 
 The source code includes the jupyter notebooks for generating transcriptions, executing data engineering and generating the models.
 
+Note: The pretained models were too large to upload to Github.
+They can be downloaded as follows:
+- GloVe Embeddings: Download the GloVe.6B embeddings from [here](https://nlp.stanford.edu/data/glove.6B.zip), and store them in the pretrained/Glove6b directory
+- The Deepspeech model and scorer:
+  > deepspeech-0.9.3-models.pbmm from https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0.9.3-models.pbmm
+  
+  > deepspeech-0.9.3-models.scorer from https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0.9.3-models.scorer
+- The vosk models: both from https://alphacephei.com/vosk/models 
+  > vosk-model-en-us-0.22-lgraph
+  > 
+  > vosk-model-en-us-0.42-gigaspeech
+  
+  
+
+
 ### Microservice ###
 
 To run the speech model microservice:
